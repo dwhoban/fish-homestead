@@ -8,7 +8,6 @@
 fisher add  dwhoban/fish-homestead
 ```
 
-
 ## Usage
 
 Pass any `vagrant` command to your global Laravel Homestead machine.  Comes in two flavours:
@@ -23,13 +22,13 @@ or
 hs
 ```
 
-<!-- ## Credits
-- [dwhoban][author] -->
+## Credits
 
-# License
+- [tikolakin](https://gist.github.com/tikolakin/d59b4fc87c0af9720d0d)
+
+## License
 
 [MIT][mit] © [dwhoban][author] et [al][contributors]
-
 
 [mit]:            https://opensource.org/licenses/MIT
 [author]:         https://github.com/dwhoban
